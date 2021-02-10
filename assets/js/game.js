@@ -1,0 +1,1 @@
+window.alert("This is to let you know that javascript is properly running, ya donut!");
