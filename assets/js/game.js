@@ -1,1 +1,7 @@
-window.alert("This is to let you know that javascript is properly running, ya donut!");
+// The first part of the game
+
+function fight () {
+window.alert("Time to start the fight!");
+}
+
+fight();
