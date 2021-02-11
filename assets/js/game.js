@@ -35,7 +35,7 @@ function fight () {
 	}
 	else {
 		window.alert(robotName + " still has " + playerHealth + "health left.");
-	}
+	};
 
 	//Check Enemy's Health
 	if (enemyHealth <= 0 ) {
@@ -43,8 +43,8 @@ function fight () {
 	}
 	else {
 		window.alert(enemyName + " still has " + enemyHealth + "health left.");
-	}
+	};
 
-}
+};
 
 fight();
